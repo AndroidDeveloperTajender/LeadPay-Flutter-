@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "625275729845",
+    "project_id": "leadgram2",
+    "storage_bucket": "leadgram2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625275729845:android:98fc06b76e580734e50bfc",
+        "android_client_info": {
+          "package_name": "com.leadgram2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625275729845-mvcon2i7cscp0ps2educeu3hu21ti31n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leadgram2",
+            "certificate_hash": "6cec8d3fb091511f5bdccd534f3bb9fe9e05bae2"
+          }
+        },
+        {
+          "client_id": "625275729845-tqsr4nik43rrtcc9ud34b80hdbfn71hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgxIUIzH8x4we1dLOPdEqoNq8YhQNVBAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625275729845-tqsr4nik43rrtcc9ud34b80hdbfn71hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
